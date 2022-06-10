@@ -1,6 +1,6 @@
 package concepts;
 
-public class P01_Factorial_Memoization_Method {
+public class P01_Factorial_Memoization_Top_DOwn {
 static int F[]=new int[505];
 public static int fib(int n) {
 	if(n<=1 ) {
